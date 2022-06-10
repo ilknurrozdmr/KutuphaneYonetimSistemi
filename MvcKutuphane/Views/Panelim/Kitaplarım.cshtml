@@ -61,13 +61,25 @@
 
                                             -----
 
-                                            <a class="btn btn-warning">
+                                            <a class="btn btn-secondary">
 
-                                                <span class="bg-warning">
+                                                @if (item.UYEGETIRTARIH != null)
+                                                {
+                                                    <span class="bg-secondary">
 
-                                                    @(((DateTime)item.UYEGETIRTARIH).ToString("dd-MMM-yyyy"))
+                                                        @(((DateTime)item.UYEGETIRTARIH).ToString("dd-MMM-yyyy"))
 
-                                                </span>
+                                                    </span>
+                                                }
+                                                else
+                                                {
+                                                    <span class="bg-secondary">
+
+                                                        @(((DateTime)item.IADETARIH).ToString("dd-MMM-yyyy"))
+
+                                                    </span>
+                                                }
+
 
                                             </a>
 
