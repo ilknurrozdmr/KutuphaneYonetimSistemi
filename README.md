@@ -1,4 +1,4 @@
-Vitrin - Admin - Kullanıcı Paneli olan Entity Framework, Linq, SQL, Bootstrap, Css, Html5 ve daha fazlası ile geliştirilmiş bir Kütüphane Yönetim Sistemi projesidir.
+Vitrin - Admin - Kullanıcı Paneli olan Entity Framework, Linq, SQL, Bootstrap, Css, Html5 ve daha fazlası ile geliştirilmiş bir Kütüphane Yönetim Sistemi projesidir. 
 
 ![admingiris](https://user-images.githubusercontent.com/43750397/173097310-0612caec-22e7-4648-acf7-e743858a17de.png)
 
